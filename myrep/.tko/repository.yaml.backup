@@ -12,13 +12,14 @@ sources:
   type: clone
   branch: master
   cache_path: /home/hudson/pooA/poo-rc-bloco-c-hudsoninfosec/myrep/.tko/cache/poo/Readme.md
-  cache_timestamp: '2025-11-19 09:52:09'
+  cache_timestamp: '2025-11-19 09:58:01'
   filters:
   - listas
 expanded:
 - poo@campanha-principal
 - poo@bloco_c-listas
 tasks:
+  poo@array: '{rate:100, iagen:gpt, alone:10}'
   poo@budega: '{rate:100, iagen:gpt, alone:7}'
   poo@lapiseira: '{rate:100, iagen:gpt, alone:7}'
   poo@pula-pula: '{rate:100, iagen:gpt, alone:7}'
@@ -29,4 +30,4 @@ flags:
   graph: 1
   xray: 0
 lang: py
-selected: poo@pula-pula
+selected: poo@tabuleiro

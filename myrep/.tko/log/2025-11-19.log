@@ -44,3 +44,5 @@
 2025-11-19 09:49:54, MOVE, v:1, k:poo@array, mode:PICK
 2025-11-19 09:49:55, EXEC, v:1, k:poo@array, mode:LOCK, rate:0
 2025-11-19 09:49:55, MOVE, v:1, k:poo@array, mode:BACK
+2025-11-19 09:58:27, SELF, v:1, k:poo@array, iagen:gpt, alone:10
+2025-11-19 09:58:39, SELF, v:1, k:poo@array, rate:100, iagen:gpt, alone:10
