@@ -1,0 +1,46 @@
+2025-11-19 00:51:03, MOVE, v:1, k:poo@pula-pula, mode:PICK
+2025-11-19 00:51:03, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:0, size:59
+2025-11-19 00:51:03, MOVE, v:1, k:poo@pula-pula, mode:BACK
+2025-11-19 01:01:23, MOVE, v:1, k:poo@pula-pula, mode:PICK
+2025-11-19 01:01:24, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:0, size:60
+2025-11-19 01:01:24, MOVE, v:1, k:poo@pula-pula, mode:BACK
+2025-11-19 01:04:23, MOVE, v:1, k:poo@pula-pula, mode:PICK
+2025-11-19 01:04:23, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:0
+2025-11-19 01:04:24, MOVE, v:1, k:poo@pula-pula, mode:BACK
+2025-11-19 01:20:09, MOVE, v:1, k:poo@pula-pula, mode:PICK
+2025-11-19 01:20:10, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:0, size:84
+2025-11-19 01:20:10, MOVE, v:1, k:poo@pula-pula, mode:BACK
+2025-11-19 01:30:26, MOVE, v:1, k:poo@pula-pula, mode:PICK
+2025-11-19 01:30:26, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:0, size:86
+2025-11-19 01:30:26, MOVE, v:1, k:poo@pula-pula, mode:BACK
+2025-11-19 01:32:25, MOVE, v:1, k:poo@pula-pula, mode:PICK
+2025-11-19 01:32:25, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:0
+2025-11-19 01:32:25, MOVE, v:1, k:poo@pula-pula, mode:BACK
+2025-11-19 01:55:33, MOVE, v:1, k:poo@pula-pula, mode:PICK
+2025-11-19 01:55:33, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:0, size:88
+2025-11-19 01:55:33, MOVE, v:1, k:poo@pula-pula, mode:BACK
+2025-11-19 01:55:58, MOVE, v:1, k:poo@pula-pula, mode:PICK
+2025-11-19 01:55:58, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:0, size:85
+2025-11-19 01:56:33, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:10, size:90
+2025-11-19 01:57:11, EXEC, v:1, k:poo@pula-pula, mode:FULL, rate:100, size:89
+2025-11-19 01:57:13, MOVE, v:1, k:poo@pula-pula, mode:BACK
+2025-11-19 02:03:01, SELF, v:1, k:poo@pula-pula, rate:100, iagen:gpt, alone:7
+2025-11-19 07:36:59, MOVE, v:1, k:poo@array, mode:PICK
+2025-11-19 07:37:00, EXEC, v:1, k:poo@array, mode:LOCK, rate:100
+2025-11-19 07:37:01, MOVE, v:1, k:poo@array, mode:BACK
+2025-11-19 07:37:02, MOVE, v:1, k:poo@array, mode:PICK
+2025-11-19 07:37:21, MOVE, v:1, k:poo@array, mode:BACK
+2025-11-19 07:37:25, MOVE, v:1, k:poo@array, mode:PICK
+2025-11-19 07:37:27, MOVE, v:1, k:poo@array, mode:BACK
+2025-11-19 07:37:43, MOVE, v:1, k:poo@array, mode:PICK
+2025-11-19 07:37:44, EXEC, v:1, k:poo@array, mode:LOCK, rate:0, size:2
+2025-11-19 07:37:44, MOVE, v:1, k:poo@array, mode:BACK
+2025-11-19 07:54:43, MOVE, v:1, k:poo@array, mode:PICK
+2025-11-19 07:54:44, EXEC, v:1, k:poo@array, mode:LOCK, rate:0, size:3
+2025-11-19 07:54:45, MOVE, v:1, k:poo@array, mode:BACK
+2025-11-19 09:49:50, MOVE, v:1, k:poo@array, mode:PICK
+2025-11-19 09:49:50, EXEC, v:1, k:poo@array, mode:LOCK, rate:0, size:3
+2025-11-19 09:49:53, MOVE, v:1, k:poo@array, mode:BACK
+2025-11-19 09:49:54, MOVE, v:1, k:poo@array, mode:PICK
+2025-11-19 09:49:55, EXEC, v:1, k:poo@array, mode:LOCK, rate:0
+2025-11-19 09:49:55, MOVE, v:1, k:poo@array, mode:BACK
